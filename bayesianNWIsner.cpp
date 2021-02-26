@@ -1,4 +1,4 @@
-//Giselle Isner 12/12 Fordham AI 
+// Isner 12/12 AI 
 
 #include <iostream>
 #include <iomanip>
